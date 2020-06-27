@@ -1,4 +1,4 @@
-awesome-twitter-data
+twitter-data
 ####################
 |Awesome| |CC0|
 
